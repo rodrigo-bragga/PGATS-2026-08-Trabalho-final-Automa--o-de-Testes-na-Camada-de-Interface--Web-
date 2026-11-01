@@ -1,3 +1,10 @@
-screenshots
-node_modules
-downloads
+# Node
+node_modules/
+
+# Cypress (Evidências e Arquivos Temporários)
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Relatórios de Testes
+cypress/reports/
