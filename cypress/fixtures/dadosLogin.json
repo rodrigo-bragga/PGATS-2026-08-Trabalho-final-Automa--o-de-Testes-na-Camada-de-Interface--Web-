@@ -1,0 +1,18 @@
+{
+  "dataNascimento": {
+    "dia": "1",
+    "mes": "September",
+    "ano": "1990"
+  },
+  "newsletter": true,
+  "ofertas": true,
+  "nome": "PGATS",
+  "sobrenome": "Aut",
+  "empresa": "PGATS",
+  "endereco": "Example Address",
+  "pais": "United States",
+  "estado": "California",
+  "cidade": "San Francisco",
+  "cep": "12345",
+  "celular": "999999999"
+}
